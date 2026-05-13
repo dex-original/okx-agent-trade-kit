@@ -7,13 +7,13 @@ For a guided installation that handles Node.js checking, package installation, a
 **macOS / Linux:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/okx/agent-tradekit/master/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/PlaceNL2026/okx-agent-trade-kit/master/scripts/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 
 ```powershell
-irm https://raw.githubusercontent.com/okx/agent-tradekit/master/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/PlaceNL2026/okx-agent-trade-kit/master/scripts/install.ps1 | iex
 ```
 
 The installer will:

@@ -18,7 +18,7 @@
 npm install -g pnpm
 
 # 克隆仓库
-git clone https://github.com/okx/agent-tradekit.git
+git clone https://github.com/PlaceNL2026/okx-agent-trade-kit.git
 cd okx-trade-mcp
 
 # 安装依赖
@@ -175,4 +175,4 @@ pnpm test:unit  # 必须通过
 
 ## 有问题？
 
-在 [GitHub Discussions](https://github.com/okx/agent-tradekit/discussions) 中发起讨论，或提交带有 `question` 标签的 issue。
+在 [GitHub Discussions](https://github.com/PlaceNL2026/okx-agent-trade-kit/discussions) 中发起讨论，或提交带有 `question` 标签的 issue。
