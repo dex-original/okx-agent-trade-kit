@@ -1,9 +1,9 @@
 # OKX Agent Trade Kit
 
-**仓库：** [github.com/PlaceNL2026/okx-agent-trade-kit](https://github.com/PlaceNL2026/okx-agent-trade-kit)
+**仓库：** [github.com/dex-original/okx-agent-trade-kit](https://github.com/dex-original/okx-agent-trade-kit)
 
-[![CI](https://github.com/PlaceNL2026/okx-agent-trade-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/PlaceNL2026/okx-agent-trade-kit/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/PlaceNL2026/okx-agent-trade-kit/branch/master/graph/badge.svg)](https://codecov.io/gh/PlaceNL2026/okx-agent-trade-kit)
+[![CI](https://github.com/dex-original/okx-agent-trade-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/dex-original/okx-agent-trade-kit/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/dex-original/okx-agent-trade-kit/branch/master/graph/badge.svg)](https://codecov.io/gh/dex-original/okx-agent-trade-kit)
 [![npm: mcp](https://img.shields.io/npm/v/okx-trade-mcp?label=okx-trade-mcp)](https://www.npmjs.com/package/okx-trade-mcp)
 [![npm downloads: mcp](https://img.shields.io/npm/dt/okx-trade-mcp?label=mcp+total+downloads)](https://www.npmjs.com/package/okx-trade-mcp)
 [![npm: cli](https://img.shields.io/npm/v/okx-trade-cli?label=okx-trade-cli)](https://www.npmjs.com/package/okx-trade-cli)
@@ -162,7 +162,7 @@ Version: okx-trade-cli@1.0.4
 ## 从源码构建
 
 ```bash
-git clone https://github.com/PlaceNL2026/okx-agent-trade-kit.git && cd okx-trade-mcp
+git clone https://github.com/dex-original/okx-agent-trade-kit.git && cd okx-trade-mcp
 pnpm install && pnpm build
 ```
 

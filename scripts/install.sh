@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # OKX Trade MCP — one-line installer
-# Usage: curl -fsSL https://raw.githubusercontent.com/PlaceNL2026/okx-agent-trade-kit/master/scripts/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/dex-original/okx-agent-trade-kit/master/scripts/install.sh | bash
 #
 # What it does:
 #   1. Checks for Node.js >= 18
@@ -15,7 +15,7 @@ set -euo pipefail
 # ---------------------------------------------------------------------------
 PACKAGES="@okx_ai/okx-trade-mcp @okx_ai/okx-trade-cli"
 MIN_NODE_VERSION=18
-REPO_URL="https://github.com/PlaceNL2026/okx-agent-trade-kit"
+REPO_URL="https://github.com/dex-original/okx-agent-trade-kit"
 
 # ---------------------------------------------------------------------------
 # Helpers

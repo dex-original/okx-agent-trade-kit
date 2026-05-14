@@ -1,5 +1,5 @@
 # OKX Trade MCP — one-line installer for Windows
-# Usage: irm https://raw.githubusercontent.com/PlaceNL2026/okx-agent-trade-kit/master/scripts/install.ps1 | iex
+# Usage: irm https://raw.githubusercontent.com/dex-original/okx-agent-trade-kit/master/scripts/install.ps1 | iex
 #
 # What it does:
 #   1. Checks for Node.js >= 18
@@ -14,7 +14,7 @@ $ErrorActionPreference = "Stop"
 # ---------------------------------------------------------------------------
 $PACKAGES = @("@okx_ai/okx-trade-mcp", "@okx_ai/okx-trade-cli")
 $MIN_NODE_VERSION = 18
-$REPO_URL = "https://github.com/PlaceNL2026/okx-agent-trade-kit"
+$REPO_URL = "https://github.com/dex-original/okx-agent-trade-kit"
 
 # ---------------------------------------------------------------------------
 # Helpers
